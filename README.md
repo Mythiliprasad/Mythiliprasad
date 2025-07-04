@@ -7,7 +7,7 @@ I enjoy working on IoT, Web Development, and Machine Learning projects.
 **--🚀 Tech Stack & Skills**
 - **Languages**: C, C++, Python, JavaScript, PHP  
 - **Web Development**: HTML5, CSS3,  
-- **Database**: MySQL, MongoDB  
+- **Database**: MySQL,   
 - **Tools & Frameworks**: Arduino IDE, Git, GitHub, VS Code,   
 - **Domains**: IoT, VLSI,
 **  -- 📌 Projects**
